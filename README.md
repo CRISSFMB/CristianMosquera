@@ -1,6 +1,6 @@
 ## Hi,  ich bin Cris
 #### I am Frontend Developer 
-![I am Frontend Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Frontend Developer ](https://ibb.co/1LhFyXP)
 
 passionate about technology, I love creating projects that challenge me and learn new and demanded technologies
 
