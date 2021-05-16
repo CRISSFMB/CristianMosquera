@@ -21,7 +21,7 @@ passionate about technology, I love creating projects that challenge me and lear
 
 **My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cris-DE&show_icons=true&theme=radical" alt="Cris-DE" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cris-DE&show_icons=true&theme=gradient" alt="Cris-DE" />
 
 ![GitHub metrics](https://metrics.lecoq.io/Cris-DE)
 
