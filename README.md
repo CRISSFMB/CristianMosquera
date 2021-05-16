@@ -15,10 +15,13 @@ Skills: /REACT / JS / HTML / CSS , SASS , Bootstrap / GitHub
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris-DE)](https://github.com/anuraghazra/github-readme-stats)
- 
-![GitHub metrics](https://metrics.lecoq.io/Cris-DE)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cris-DE&show_icons=true) 
 
+![GitHub metrics](https://metrics.lecoq.io/Cris-DE)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris-DE)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Profile views](https://gpvc.arturio.dev/Cris-DE)  
+
+
