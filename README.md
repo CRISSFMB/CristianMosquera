@@ -6,6 +6,13 @@ passionate about technology, I love creating projects that challenge me and lear
 
 Skills: /REACT / JS / HTML / CSS , SASS , Bootstrap / Git / GitHub
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 - 🔭 I’m currently working on Learn 
 - 🌱 I’m currently learning REDUX 
 - 📫 How to reach me: cmosqbone1@gmail.com 
@@ -17,6 +24,11 @@ Skills: /REACT / JS / HTML / CSS , SASS , Bootstrap / Git / GitHub
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cris-DE&show_icons=true) 
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cris-DE&show_icons=true&theme=gotham" alt="Cris-DE" />
 
 ![GitHub metrics](https://metrics.lecoq.io/Cris-DE)
 
