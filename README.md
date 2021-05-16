@@ -1,4 +1,4 @@
-### Hi there 👋,  Hi ich bin Cris
+## Hi ich bin Cris
 #### I am Frontend Developer 
 ![I am Frontend Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
