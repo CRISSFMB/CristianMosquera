@@ -4,7 +4,7 @@
 
 passionate about technology, I love creating projects that challenge me and learn new and demanded technologies
 
-Skills: /REACT / JS / HTML / CSS , SASS , Bootstrap / GitHub
+Skills: /REACT / JS / HTML / CSS , SASS , Bootstrap / Git / GitHub
 
 - 🔭 I’m currently working on Learn 
 - 🌱 I’m currently learning REDUX 
