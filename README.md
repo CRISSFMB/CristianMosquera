@@ -23,9 +23,6 @@ Skills: /REACT / JS / HTML / CSS , SASS , Bootstrap / Git / GitHub
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cris-DE&show_icons=true) 
-
-
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cris-DE&show_icons=true&theme=gotham" alt="Cris-DE" />
