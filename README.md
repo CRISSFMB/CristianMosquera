@@ -13,8 +13,8 @@ passionate about technology, I love creating projects that challenge me and lear
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**Skills**: /REACT / JS / HTML / CSS , SASS , Bootstrap / Git / GitHub
-**How to reach me**: cmosqbone1@gmail.com 
+## Skills: /REACT / JS / HTML / CSS , SASS , Bootstrap / Git / GitHub
+## How to reach me: cmosqbone1@gmail.com 
 
 ---
 
@@ -23,7 +23,7 @@ passionate about technology, I love creating projects that challenge me and lear
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
-**My GitHub Stats**
+## My GitHub Stats
 ![Cris GitHub stats](https://github-readme-stats.vercel.app/api?username=Cris-DE&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ---
 ![GitHub metrics](https://metrics.lecoq.io/Cris-DE)
