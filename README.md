@@ -1,6 +1,6 @@
 ## Hi,  ich bin Cris
 #### I am Frontend Developer 
-![I am Frontend Developer ](https://ibb.co/1LhFyXP)
+![I am Frontend Developer ](https://i.ibb.co/Tkp9j07/Screenshot-1.png) 
 
 passionate about technology, I love creating projects that challenge me and learn new and demanded technologies
 
