@@ -13,7 +13,8 @@ passionate about technology, I love creating projects that challenge me and lear
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## Skills: /REACT / JS / HTML / CSS , SASS , Bootstrap / Git / GitHub
+## Skills: /REACT / GATSBY / JS /
+####  HTML / CSS , SASS , Bootstrap / Git / GitHub
 ## How to reach me: cmosqbone1@gmail.com 
 
 ---
