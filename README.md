@@ -24,12 +24,6 @@ passionate about technology, I love creating projects that challenge me and lear
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
-## My GitHub Stats
-![Cris GitHub stats](https://github-readme-stats.vercel.app/api?username=Cris-DE&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
----
-![GitHub metrics](https://metrics.lecoq.io/Cris-DE)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris-DE)](https://github.com/Cris-DE/github-readme-stats)
 
 
 
