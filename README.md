@@ -1,24 +1,25 @@
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
 ## Hi,  ich bin Cris
-#### I am Frontend Developer 
-![I am Frontend Developer ](https://i.ibb.co/Tkp9j07/Screenshot-1.png) 
 
-passionate about technology, I love creating projects that challenge me and learn new and demanded technologies
+```js
+import frontend_Developer from 'cristianmosquera';
 
----
+class Bio extends frontend_Developer {
+  name     = 'Cristian Mosquera';
+  title    = 'Frontend Developer';
+  company  = 'Home | Autodidact';
+  location = 'Germany | Hannover';
+  languages = ['English', 'Deutsch', 'Spanish'];
+  contact = 'cmosqbone1@gmail.com';
+}
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-## Skills
-## HTML5 / CSS , Javascript , React , SASS , Bootstrap / Git / GitHub
-## How to reach me: cmosqbone1@gmail.com 
-
-
-
-
-
-
+class Skills extends frontend_Developer {
+  technologies  = ['JavaScript','HTML5','CSS','Webpack', 'Git', 'Github'];
+  frameworks = ['React', 'Bootstrap'];
+  preprocessors = 'Sass'
+}
+```
